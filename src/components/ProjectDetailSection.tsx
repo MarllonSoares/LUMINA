@@ -448,7 +448,7 @@ export const ProjectDetailSection = ({
                     </div>
                     <div className="flex items-center gap-4">
                       <motion.a
-                        href="https://seu-site-bio-battery.vercel.app"
+                        href="https://luminaworks.vercel.app/"
                         target="_blank"
                         rel="noopener noreferrer"
                         whileHover={{ scale: 1.05 }}
