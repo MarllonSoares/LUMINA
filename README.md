@@ -1,7 +1,8 @@
 
-  # Mille - Agência
+  # LÚMINA - Agência
 
-  This is a code bundle for Mille - Agência. The original project is available at https://www.figma.com/design/hHjBvHUjVEaVCKG5lEnQLV/Mille---Ag%C3%AAncia.
+  This is a code bundle for LÚMINA - Agência. 
+  Este é um pacote de código para LÚMINA.
 
   ## Running the code
 
